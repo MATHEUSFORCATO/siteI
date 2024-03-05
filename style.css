@@ -1,8 +1,8 @@
 body{
-    background-color: rgba(42, 254, 10, 0.968);
+    background-color: rgba(42, 254, 10, 0);
 } 
 nav{ 
-    background-color: aquamarine;
+    background-color: rgba(17, 17, 17, 0.918);
  padding: 15px 50px ; 
  display: flex;  
 justify-content: space-between;
